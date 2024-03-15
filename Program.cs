@@ -1,4 +1,6 @@
-﻿Console.Write("1");
+Console.Write("0");
+Thread.Sleep(1000);
+Console.Write(" 1");
 Thread.Sleep(1000);
 Console.Write(" 2");
 Thread.Sleep(1000);
